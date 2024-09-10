@@ -1,8 +1,8 @@
 # Welcome to Staticaliza
 ## Personal
-- Birthday August 31
+- Birthday: August 31
 - Asian from U.S.
-- Online aliases: St4t1cCris, StaticalCris, Statical, PROXDGAMER00
+- Former online aliases: St4t1cCris, StaticalCris, Statical, PROXDGAMER00
 
 # Skillsets
 - JavaScript: 3+ years
