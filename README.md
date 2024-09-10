@@ -16,6 +16,6 @@
 >- Amassed 5M+ contributed revenue and nearly 1M personal Robux revenue ($10K+ USD)
 
 # Ownerships
->- Founded/owned viral ROBLOX games Mindless Aurora (formerlly A Dumb Day), Blade Ball Practice
+>- Founded/owned viral/famous ROBLOX games: Mindless Aurora (formerlly A Dumb Day), Blade Ball Practice
 >- Founded/owned ROBLOX studio groups: STATI.CO (2K+ members), Dumb Experiments (20K+), Statical Productions (60K+ & verified/endorsed by ROBLOX)
 >- Founded/owned Discord servers of 10K+ members
