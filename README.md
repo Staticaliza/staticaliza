@@ -11,5 +11,5 @@
 >- AI, Hugging Face apps, APIs
 - LUAU (ROBLOX): 6+ years
 >- Fullstack, multi-skilled (scripting, animation, Blender modeling, VFX, SFX, UI, GFX)
->- Founded/Owned ROBLOX studio groups: STATI.CO, Dumb Experiments, Statical Productions
+>- Founded/Owned ROBLOX studio groups: STATI.CO (2K+ members), Dumb Experiments (20K+), Statical Productions (60K+ & verified/endorsed by ROBLOX)
 >- 120M contributed visits & 30M founded visits
