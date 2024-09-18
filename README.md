@@ -2,7 +2,8 @@
 ## Personal
 - Birthday: August 31
 - Asian from U.S.
-- Former online aliases: St4t1cCris, StaticalCris, Statical, PROXDGAMER00
+- Online aliases: stat, statical, prox
+- Former online aliases: St4t1cCris, StaticalCris, Statical_Cris, PROXDGAMER00
 
 # Skillsets
 - JavaScript: 3+ years
