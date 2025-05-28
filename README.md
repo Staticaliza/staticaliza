@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile
 
-## Personal Information
+## Background
 
 - My birthday is on August 31
 - I am a Korean born in the United States
@@ -8,7 +8,7 @@
 
 ---
 
-# My Skills
+# Skillsets
 
 - I can code in Luau, JavaScript, and Python
 - I create games, Discord bots, APIs, websites, and more
