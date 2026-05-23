@@ -2,8 +2,7 @@
 
 ## Background
 
-- My birthday is on August 31
-- I am a Korean born in the United States
+- Based in the United States
 - You can call me "stat"
 
 ---
